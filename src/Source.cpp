@@ -25,7 +25,7 @@ int main()
 
 
     // Set organization admin
-    Admin RedCrossAdmin{ "6980119940", "Thodoris" };
+    Admin RedCrossAdmin{ "6912345", "Thodoris" };
     RedCross.SetAdmin(RedCrossAdmin);
 
     // Add Donators
